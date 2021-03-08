@@ -1,0 +1,63 @@
+.body {
+	font-family: Tahoma, "Cordia New", CordiaUPC;
+	font-style: normal;
+	font-weight: normal;
+	color: #000000;
+	background-color: #ffffff;
+	font-size: 1.0em;
+}
+.subject {
+
+	color: #3300cc;
+	text-align: center;
+	font-family: "MS Sans Serif", Tahoma, sans-serif;
+}
+.im1 {
+	color: #AA00AA;
+
+	font-family: Tahoma, "Cordia New", CordiaUPC;
+}
+.im2 {
+	color: #3300cc;
+
+	font-family: Tahoma, "Cordia New", CordiaUPC;
+}
+.homelink {
+	text-align: right;
+	font-family: "MS Sans Serif", Tahoma, sans-serif;
+}
+.im1c {
+	color: #CC00CC;
+	text-align: center;
+	font-family: Tahoma, "Cordia New", CordiaUPC;
+}
+.im2c {
+	color: #3300cc;
+	text-align: center;
+	font-family: Tahoma, "Cordia New", CordiaUPC;
+}
+.nc {
+	text-align: center;
+	font-family: Tahoma, "Cordia New", CordiaUPC;
+}
+.sign {
+	color: #3300cc;
+	text-align: right;
+	font-family: Tahoma, "Cordia New", CordiaUPC;
+}
+.qa {
+	color: #3300cc;
+	text-decoration: underline;
+	font-family: Tahoma, "Cordia New", CordiaUPC;
+}
+.footer {
+	font-family: Tahoma, "Cordia New", CordiaUPC;
+	text-align: left;
+	color: #CC00CC;
+}
+.tmc {
+	color: #3300cc;
+}
+.vcb {
+	color: #CC6600;
+}
